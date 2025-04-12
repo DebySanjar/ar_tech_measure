@@ -1,4 +1,4 @@
-# AR O'lchovchi Ilova (AR Ruler)
+ AR O'lchovchi Ilova (AR Ruler)
 
 Bu Android ilova ARCore va Sceneform texnologiyalaridan foydalangan holda ikki nuqta orasidagi masofani o‘lchash imkonini beradi. Ilova Kotlin tilida yozilgan va `ViewBinding` bilan ishlaydi. Belgilangan nuqtalar SQLite ma’lumotlar bazasiga saqlanadi va ilova qayta ishga tushirilganda ularni yuklaydi.
 
